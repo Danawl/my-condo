@@ -6,9 +6,7 @@ export default function About() {
         <div className="max-w-5xl mx-auto px-6">
           <h2 className="text-4xl font-semibold mb-6">About</h2>
           <p className="text-primary mb-6">
-            Located just a few minutes from the vibrant lifestyle and business district of Alabang, our condominium
-            offers the ideal blend of convenience, comfort, and affordability. Its strategic location gives you access
-            to shopping malls, lifestyle centers, schools, hospitals, and major establishments, making it a smart choice for both residents and investors.
+            This is a brand new, fully furnished studio-type condo unit available for rent. Ready for occupancy, it offers a comfortable and convenient living space—perfect for individuals or couples looking for a hassle-free move-in experience.
           </p>
           <p className="text-primary">
             With thoughtfully designed units, contemporary architecture, world-class range of amenities—including a
