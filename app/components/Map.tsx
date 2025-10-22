@@ -3,7 +3,6 @@
 export default function Map() {
   return (
     <section id="map" className="container pt-30 pb-20 px-6 md:px-16">
-      <h2 className="text-4xl font-semibold mb-10 text-center text-primary">Map</h2>
       <div className="w-full h-96 rounded-lg overflow-hidden shadow-md">
         <iframe
           title="Condo Location"
