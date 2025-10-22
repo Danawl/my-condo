@@ -62,7 +62,7 @@ export default function Contact() {
           <FaPhone className="h-6 w-6 text-primary" />
           <div>
             <span className="font-semibold text-primary block">Phone</span>
-            <span className="text-primary">09157967524</span>
+            <span className="text-primary">09454079710</span>
           </div>
         </div>
       </div>
